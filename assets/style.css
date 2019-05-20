@@ -1,0 +1,21 @@
+a {
+    color: #cccccc;
+}
+a:hover {
+    color: hotpink;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer,p,form {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+body {
+    background-image:url("../assets/pattern11.png");
+    background-size: cover;
+    background-repeat: repeat;  
+}
+h1 {
+    color: #4aaaa5;
+}
